@@ -31,10 +31,16 @@ const Layout = ({ location, title, children }) => {
         <span style={{ flex: 1 }}>{header}</span>
 
         <span>
-          <a href="https://play.google.com/store/apps/details?id=com.broabect.greatnorthguide">
+          <a
+            aria-label="Android App"
+            href="https://play.google.com/store/apps/details?id=com.broabect.greatnorthguide"
+          >
             <AiFillAndroid size={48} />
           </a>
-          <a href="https://apps.apple.com/us/app/extended-night-companion-app/id1554875268">
+          <a
+            aria-label="iOS App"
+            href="https://apps.apple.com/us/app/extended-night-companion-app/id1554875268"
+          >
             <AiFillApple size={48} />
           </a>
         </span>
