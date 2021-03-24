@@ -17,8 +17,14 @@ description: "Colored maps, Custom Trophies, Trophy Tabs, Change Log Screen"
 1. Items
 1. Journal
 
+I've created a short (~3 minute) to guage interest on a few things. 
+
+[Take the Survey!](https://docs.google.com/forms/d/e/1FAIpQLSeHVUMfiYsybNZMK3viHRDdNWo4OaHUk8rjsks8RffTpkqvvQ/viewform?usp=sf_link)
+
 ## Notes
 
-There has been a few questions about adding layers to the maps, such as, only showing wolfs, being able to draw on the map, etc. These are great ideas, but would not be possible with how the maps are implemented currently. I'll continue to watch the tech powering the app to see if this can be done in the future.
+There has been a few questions about adding/removing layers from the maps, such as, only showing wolfs areas or hide other things. Unfortunately, this won't be possible right now. I'm using the maps directly from [this forum post](https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789). These maps are amazing, but they are just flat images. This idea is very good and is typical in most map applications. I will continue to think about this and try to figure out how this could work.
 
+
+## Thank You
 This has been such an exciting project for me and I am so excited to have support from the community. Thank you all.
