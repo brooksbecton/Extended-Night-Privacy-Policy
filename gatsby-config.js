@@ -1,15 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Extended Night Companion`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+
+    description: `Home for information about the Extended Night Companion App`,
+    siteUrl: `https://extendednightcompanion.com/`,
   },
   plugins: [
     "gatsby-plugin-preload-fonts",
