@@ -1,6 +1,7 @@
-import * as React from "react"
-import { Link } from "gatsby"
 import "@fontsource/satisfy"
+import { Link } from "gatsby"
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+import * as React from "react"
 import { AiFillAndroid, AiFillApple } from "react-icons/ai"
 
 const Layout = ({ location, title, children }) => {
@@ -31,18 +32,18 @@ const Layout = ({ location, title, children }) => {
         <span style={{ flex: 1 }}>{header}</span>
 
         <span>
-          <a
+          <OutboundLink
             aria-label="Android App"
             href="https://play.google.com/store/apps/details?id=com.broabect.greatnorthguide"
           >
             <AiFillAndroid size={48} />
-          </a>
-          <a
+          </OutboundLink>
+          <OutboundLink
             aria-label="iOS App"
             href="https://apps.apple.com/us/app/extended-night-companion-app/id1554875268"
           >
             <AiFillApple size={48} />
-          </a>
+          </OutboundLink>
         </span>
       </header>
       <main>{children}</main>

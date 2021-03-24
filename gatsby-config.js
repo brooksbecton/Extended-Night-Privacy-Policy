@@ -16,6 +16,15 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-google-gtag",
+      options: {
+        trackingIds: ["G-Y51TQSFQPK"],
+        gtagConfig: {
+          anonymize_ip: true,
+        },
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
