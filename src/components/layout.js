@@ -40,9 +40,22 @@ const Layout = ({ location, title, children }) => {
         </span>
       </header>
       <main>{children}</main>
-      {/* <footer style={{display: "flex", alignItems: "center", flexDirection: "row", justifyContent: "flex-end"}}>
-      
-      </footer> */}
+      <footer
+        style={{
+          display: "flex",
+          alignItems: "center",
+          flexDirection: "row",
+          justifyContent: "flex-end",
+        }}
+      >
+        <Link style={{ marginRight: "20px" }} to="/">
+          Home
+        </Link>
+        <Link style={{ marginRight: "20px" }} to="/privacy">
+          Privacy Policy
+        </Link>
+        <Link to="/termsandconditions">Terms and Conditions</Link>
+      </footer>
     </div>
   )
 }
