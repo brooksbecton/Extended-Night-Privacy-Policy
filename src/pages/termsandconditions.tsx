@@ -80,6 +80,15 @@ const Terms: React.FC<PageProps<DataProps>> = ({ data, path, location }) => {
           </li>
           <li>
             <a
+              href="https://firebase.google.com/terms/analytics"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Google Analytics for Firebase
+            </a>
+          </li>
+          <li>
+            <a
               href="https://expo.io/terms"
               target="_blank"
               rel="noopener noreferrer"
