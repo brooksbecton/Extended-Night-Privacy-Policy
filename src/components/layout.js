@@ -4,7 +4,7 @@ import { OutboundLink } from "gatsby-plugin-google-analytics"
 import * as React from "react"
 import { AiFillAndroid, AiFillApple } from "react-icons/ai"
 import { SiKoFi } from "react-icons/si"
-
+import BuyMeACoffeeImage from "./../images/BuyMeACoffee.png"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -52,7 +52,13 @@ const Layout = ({ location, title, children }) => {
             aria-label="KoFi Donation"
             href="https://ko-fi.com/brooksbecton"
           >
-            Buy Me a Coffee
+            <img
+              height={39}
+              width={200}
+              style={{ width: 200, height: 39 }}
+              src={BuyMeACoffeeImage}
+              alt="Buy Me a Coffee"
+            />
           </OutboundLink>
         </span>
       </header>
