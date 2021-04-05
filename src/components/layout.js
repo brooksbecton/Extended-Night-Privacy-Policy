@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-analytics"
 import * as React from "react"
 import { AiFillAndroid, AiFillApple } from "react-icons/ai"
+import { SiKoFi } from "react-icons/si"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -25,13 +26,46 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header
-        style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
-        className="global-header"
-      >
-        <span style={{ flex: 1 }}>{header}</span>
+      <header className="global-header">
+        <span
+          style={{
+            flex: 2,
+            display: "flex",
+            flexDirection: "row",
+            justifyContent: "space-between",
+          }}
+        >
+          {header}
+        </span>
 
-        <span>
+        <span
+          style={{
+            flex: 1,
+            display: "flex",
+            justifyContent: "flex-end",
+            alignItems: "center",
+          }}
+          className="global-header-links"
+        >
+          <OutboundLink
+            style={{ marginRight: 7 }}
+            aria-label="KoFi Donation"
+            href="https://ko-fi.com/brooksbecton"
+          >
+            Buy Me a Coffee
+          </OutboundLink>
+        </span>
+      </header>
+      <main>{children}</main>
+      <footer
+        style={{
+          display: "flex",
+          alignItems: "center",
+          flexDirection: "row",
+          justifyContent: "space-between",
+        }}
+      >
+        <div>
           <OutboundLink
             aria-label="Android App"
             href="https://play.google.com/store/apps/details?id=com.broabect.greatnorthguide"
@@ -44,24 +78,18 @@ const Layout = ({ location, title, children }) => {
           >
             <AiFillApple size={48} />
           </OutboundLink>
-        </span>
-      </header>
-      <main>{children}</main>
-      <footer
-        style={{
-          display: "flex",
-          alignItems: "center",
-          flexDirection: "row",
-          justifyContent: "flex-end",
-        }}
-      >
-        <Link style={{ marginRight: "20px" }} to="/">
-          Home
-        </Link>
-        <Link style={{ marginRight: "20px" }} to="/privacy">
-          Privacy Policy
-        </Link>
-        <Link to="/termsandconditions">Terms and Conditions</Link>
+        </div>
+        <div>
+          <Link style={{ marginRight: "20px" }} to="/">
+            Home
+          </Link>
+          <Link style={{ marginRight: "20px" }} to="/privacy">
+            Privacy Policy
+          </Link>
+          <Link style={{ marginRight: "20px" }} to="/termsandconditions">
+            Terms and Conditions
+          </Link>
+        </div>
       </footer>
     </div>
   )
