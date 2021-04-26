@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Extended Night Companion`,
 
-    description: `Home for information about the Extended Night Companion App`,
+    description: `Home for information about the Extended Night Companion App, a mobile for the video game The Long Dark®`,
     siteUrl: `https://extendednightcompanion.com/`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     "gatsby-plugin-preload-fonts",
     `gatsby-plugin-image`,
     {
