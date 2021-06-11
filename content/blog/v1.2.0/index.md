@@ -5,9 +5,8 @@ description: "Keep track of items and info with Journaling"
 featuredImage: screenshots/1.png
 ---
 
-![Hopper The Rabbit](./screenshots/1.png)
-![Hopper The Rabbit](./screenshots/1.png)
-![Hopper The Rabbit](./screenshots/1.png)
+
+![Extended Night Companion Journal Screen](./screenshots/hero.png)
 
 ## New Additions
 - Journals
