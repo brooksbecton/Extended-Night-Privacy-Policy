@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-analytics"
 import * as React from "react"
 import { AiFillAndroid, AiFillApple } from "react-icons/ai"
-import { SiKoFi } from "react-icons/si"
 import BuyMeACoffeeImage from "./../images/BuyMeACoffee.png"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
