@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Extended Night Companion]]></title><description><![CDATA[Home for information about the Extended Night Companion App, a mobile for the video game The Long Dark®]]></description><link>https://extendednightcompanion.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Apr 2021 17:24:59 GMT</lastBuildDate><item><title><![CDATA[Version 1.1.0]]></title><description><![CDATA[New Additions Cooking Items Fire Items Fishing Items Hand Items Hunting Items Lighting Items Repair Items Sleep Items Other Items What’s…]]></description><link>https://extendednightcompanion.com/v1.1.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.1.0/</guid><pubDate>Mon, 26 Apr 2021 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;New Additions&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Extended Night Companion]]></title><description><![CDATA[Home for information about the Extended Night Companion App, a mobile for the video game The Long Dark®]]></description><link>https://extendednightcompanion.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Jun 2021 14:59:16 GMT</lastBuildDate><item><title><![CDATA[Version 1.2.0]]></title><description><![CDATA[New Additions Journals Map Location Items Notes Multiple Entries Multiple Journals World Map What’s Next? Item corrections Celsius…]]></description><link>https://extendednightcompanion.com/v1.2.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.2.0/</guid><pubDate>Fri, 11 Jun 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 856px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f8534bf57e03502abd023491b9f3119/d2c28/hero.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.82242990654206%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADe0lEQVQ4y12RzW8aRxjG59xeIhswthG2QXyYXXZZA8tiCB+7O7PL12LD8m1s7CRO0sRVD2l7iyq1t6rKoZeqf0IuTq+V0nv7T3CyqtTuoQnYljDzVkNz6uGR5p2Z5zfPvC/Kljq/pkjnIodr44xaHie1xoVstv847rc20kb7bVxt/Jkn1rhgWGO2Vsz2bw+HXW8Kt3+PF/cu7uvVcY5Y47jWvMiU2m9RUm8Brw2AK3RhQ7ZgS2lAQKnNe/1BKVa0p/5dG0L3W7Cdb4M3WQe/XJ4+enRqhnfr83C+AxIZLry+dAOiWQtQpfv4NlU5mcfNw3lU7d5F1T74kuUPg+FhFTcfX1YOvga9dXbHlLFOIazU/np+9nmFzzU+xM0jELX+3Xa+Mw/nuzScrtyigjWcBbMt9goV9AEN5buwHjOuP3v2fE8xeldK+QEkjCMqmyMq6UMIpap/v/jyq/r2rjXliz0Q9T6Nqj3qlfcgpJTnqFg/vJYrJyBoPRrK2tSbqIFXMqadbp+I+cZVpNABb7JGPfEKdfAEPKJ2NXpwirl0aSJqfZDwARW1/gLoi5MblMLtiT/dYH2igWyLbqYb4JGMabNp6+F07TKca8NWao+6RZO6BBO8MXx1dDTSNiRjshorw1qsRN1iiTqiJvgTxg0Sc/VJMGvDpmzRFYHQFWaSjKnd6uCAXL4MZGzw7FSog9MXZxsSYUB9XdAmrF4RDOqKYrocweDbwTcIN0YTQRsAX+xQrtChLK1HxNNmq439CfOS1auiSR0cpq7ox4SjY32VVydOnoCLx9TFE7rMkf++zBKuSRXwJi3qlevUm9pnQ5nadgv7k6XLLWV/keJ/QM3NFycOjoCTx9TJE7rEEsbJNfLF8ft7YX2+HNFnTEsRna5w6vt2t8eA73zKPrh4MnNweLbooUTejY5PdDdX/MfBEerk8MzJk9lSBM99cTJBQdkERmfxmdgk3bwKB8NDzZ80bzflOqxLZXBwGFxRAr4d7fbh6RN1lVfhY8KFjzH8CQJILlZfhmTyZjtlvA4zyca5sGu++umHbz5NFqrfCdnqL2K2yvZfR1LkTapQ+vbnH7//JJYpvQrJxjnzMYVkcp7IV16isFJGSxGMnDxBTh6jZY6gtaiKnj19gkJKFQWzNgpmmsjBEeSO6oiTVXT2xQvkEbTFXeZhXsYIJE30L17UimDftqzzAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Extended Night Companion Journal Screen&quot;
+        title=&quot;Extended Night Companion Journal Screen&quot;
+        src=&quot;/static/5f8534bf57e03502abd023491b9f3119/ad12c/hero.png&quot;
+        srcset=&quot;/static/5f8534bf57e03502abd023491b9f3119/a48b3/hero.png 214w,
+/static/5f8534bf57e03502abd023491b9f3119/47730/hero.png 428w,
+/static/5f8534bf57e03502abd023491b9f3119/ad12c/hero.png 856w,
+/static/5f8534bf57e03502abd023491b9f3119/7a18f/hero.png 1284w,
+/static/5f8534bf57e03502abd023491b9f3119/56caf/hero.png 1712w,
+/static/5f8534bf57e03502abd023491b9f3119/d2c28/hero.png 4000w&quot;
+        sizes=&quot;(max-width: 856px) 100vw, 856px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;New Additions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Journals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Map&lt;/li&gt;
+&lt;li&gt;Location&lt;/li&gt;
+&lt;li&gt;Items&lt;/li&gt;
+&lt;li&gt;Notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Multiple Entries&lt;/li&gt;
+&lt;li&gt;Multiple Journals&lt;/li&gt;
+&lt;li&gt;World Map&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What’s Next?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Item corrections&lt;/li&gt;
+&lt;li&gt;Celsius Temperatures&lt;/li&gt;
+&lt;li&gt;Item Searching and Filtering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;h3&gt;Journaling&lt;/h3&gt;
+&lt;p&gt;I’ve been very excited to get this one out. I’m currently doing a run where I am trying to Ash Canyon to cross the bridge for the first time. While building up supplies in Pleasant Valley, I kept wishing I could finish journaling so I could keep up with all the items I was collecting in the Community Hall.&lt;/p&gt;
+&lt;p&gt;After about a month, it is finally here. I am very pleased with the look of it. It took quite a few iterations to get something I thought was good enough. There are a few improvements that I might try to make in the future. To start, I’d like to be able to search through my entries to find items I might want to go get. Like if I know I had a rifle at some point, but dropped it somewhere. I’d also like to be able to directly jump from a journal entry to a map. &lt;/p&gt;
+&lt;p&gt;The journal was a little bit of a shot in the dark, because so many people were asking for “logs”, “journals” etc., but I didn’t have time to reach out to everyone to walk through what they were expecting. I did consider creating some &lt;a href=&quot;https://balsamiq.com/learn/articles/what-are-wireframes/&quot;&gt;wire frames&lt;/a&gt; at one point, but I also thought that make take too long to gather all that feedback. Also in general, the harder parts of getting this made was storing all the information around journals, so changing the UI can have a quick turn around. If you run into issues or think something is missing, feel free to use the &lt;a href=&quot;https://forms.gle/wQsRUJqf3VLDucHdA&quot;&gt;Feedback Form&lt;/a&gt; to share you ideas. &lt;/p&gt;
+&lt;h3&gt;Item Feedback&lt;/h3&gt;
+&lt;p&gt;There has been a lot of feedback helping me find issues with some of the items that were recently added. Thank you!
+I had a lot of data coming in on the item feature, so it was tough to catch all the issues. Correcting these issue should be easy to fix and should be out very quickly. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Version 1.1.0]]></title><description><![CDATA[New Additions Cooking Items Fire Items Fishing Items Hand Items Hunting Items Lighting Items Repair Items Sleep Items Other Items What’s…]]></description><link>https://extendednightcompanion.com/v1.1.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.1.0/</guid><pubDate>Mon, 26 Apr 2021 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;New Additions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Cooking Items&lt;/li&gt;
 &lt;li&gt;Fire Items&lt;/li&gt;
