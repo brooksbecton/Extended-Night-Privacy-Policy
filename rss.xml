@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Extended Night Companion]]></title><description><![CDATA[Home for information about the Extended Night Companion App, a mobile for the video game The Long Dark®]]></description><link>https://extendednightcompanion.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Jun 2021 14:59:16 GMT</lastBuildDate><item><title><![CDATA[Version 1.2.0]]></title><description><![CDATA[New Additions Journals Map Location Items Notes Multiple Entries Multiple Journals World Map What’s Next? Item corrections Celsius…]]></description><link>https://extendednightcompanion.com/v1.2.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.2.0/</guid><pubDate>Fri, 11 Jun 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Extended Night Companion]]></title><description><![CDATA[Home for information about the Extended Night Companion App, a mobile for the video game The Long Dark®]]></description><link>https://extendednightcompanion.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Jul 2021 11:26:33 GMT</lastBuildDate><item><title><![CDATA[Version 1.3.0]]></title><description><![CDATA[New Additions Clothing and Food Sorting Landscape Mode Pound Display Fahrenheit Display What’s Next? In App Purchase to Remove Ads Drawing…]]></description><link>https://extendednightcompanion.com/v1.3.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.3.0/</guid><pubDate>Mon, 05 Jul 2021 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;New Additions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Clothing and Food Sorting&lt;/li&gt;
+&lt;li&gt;Landscape Mode&lt;/li&gt;
+&lt;li&gt;Pound Display&lt;/li&gt;
+&lt;li&gt;Fahrenheit Display&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What’s Next?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;In App Purchase to Remove Ads&lt;/li&gt;
+&lt;li&gt;Drawing On Maps&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;h3&gt;In App Purchases (IAP)&lt;/h3&gt;
+&lt;p&gt;I have decided to go ahead and move away from using Expo, so that we can add an option to remove ads. I have been working on and testing IAP, so an IAP for removing ads should be coming to the app very soon. &lt;/p&gt;
+&lt;p&gt;I am having to relearn how to do some basic things like building the app and releasing updates. There are pros and cons when moving away from Expo, but some near future benefits we can see is faster boot times, decrease the apps overall size, and this allows us to do drawing. &lt;/p&gt;
+&lt;h3&gt;Drawing on Maps&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d5db6579944c8014b1db1b1bc39295a9/37523/drawing1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.35514018691589%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABuUlEQVQoz2PgVraDIx4VO3YFGzlDt4rG3uq2Se3909r7pzX3Tmvun2vqFskia8mrYo+sngFVsz2bvLWqhe/1K2e/fnjw/vXdH1+e/Pr27NXzu6YuoczEaNaw8j17cv/jBzd+fX3y69uLrx/e/Hh/z9wtmFnGilcVr2ZWeWtNK98jB3edOnn868cHP7++ePv84avb58A2WxGwmV3BRtHE4+aVIz8/P/j45tbdGyce3zv55vklQ8dAFqI0G7sfObj13o2b929fun3jzItHp7+/u2LiFEiMzbayBi6HDu4/e+TQ6UO7Tx8//u3zw7cvrhk7BRCnWd/l8KGDp8+cvnjq2NcP7169erF3/zFta39WOWseApoVbWX1nY8fO/z4+Yddxx88ePzqxas3O48/U7cKYZO35CFos7yB04kTR288/rPhxO+Ldz5fuf354IVvevahrHIE4tmOQ9FWRt9lwsQJsxatq+zdVtq2rKlleteExeoW3mzy+J2tbMelbCeibufkl7Bs3Z4JU+Y2d05ev3l3ZEqhsLoNl7I9D5JidM0QxKVko2nl6xGW6hGW6h6W6hmeZuQYwqtih6kSAKEI/9lY9lO2AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Extended Night Companion Journal Screen&quot;
+        title=&quot;Extended Night Companion Journal Screen&quot;
+        src=&quot;/static/d5db6579944c8014b1db1b1bc39295a9/37523/drawing1.png&quot;
+        srcset=&quot;/static/d5db6579944c8014b1db1b1bc39295a9/a48b3/drawing1.png 214w,
+/static/d5db6579944c8014b1db1b1bc39295a9/47730/drawing1.png 428w,
+/static/d5db6579944c8014b1db1b1bc39295a9/37523/drawing1.png 720w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After many reviews and feedback submissions asking for drawing I was able to get something going to allow everyone to draw on the map. I was able to get the drawing going, but am still working on saving them. &lt;/p&gt;
+&lt;p&gt;I will be adding some kind of premium versions of drawing to the app as an In App Purchase, but I will offer some basic drawing for free. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Version 1.2.0]]></title><description><![CDATA[New Additions Journals Map Location Items Notes Multiple Entries Multiple Journals World Map What’s Next? Item corrections Celsius…]]></description><link>https://extendednightcompanion.com/v1.2.0/</link><guid isPermaLink="false">https://extendednightcompanion.com/v1.2.0/</guid><pubDate>Fri, 11 Jun 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 856px; &quot;
     &gt;
